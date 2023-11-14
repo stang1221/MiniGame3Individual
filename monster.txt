@@ -1,0 +1,6 @@
+Goblin
+A small, green-skinned creature with sharp teeth and a mischievous glint in its eye.
+10
+70
+3
+----
